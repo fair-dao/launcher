@@ -8,7 +8,6 @@ TRONネットワーク上でCREATE2オペコードを使用してスマートコ
 ## 貢献
 
 * FAIR DAOのすべてのプロジェクトでのPRの提出や問題の報告を歓迎します。[貢献ガイドライン](https://github.com/fair-dao/.github/blob/main/CONTRIBUTING_JA.md)、[貢献者契約行動規範](https://github.com/fair-dao/.github/blob/main/CODE_OF_CONDUCT.md)を参照してください。
-* **貢献する際は、TRONウォレットアドレスを残してください（少なくとも1回）。毎四半期、貢献度を評価し、活発な参加者にFairトークンを報酬として配布します。**
 
 ## ライセンス
 
