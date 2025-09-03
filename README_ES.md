@@ -7,7 +7,7 @@ Cree contratos inteligentes en la red TRON utilizando el opcode CREATE2 para imp
 
 ## Contribución
 
-* Damos la bienvenida a las presentaciones de PR o informes de problemas, consulte las [Directrices de Contribución](CONTRIBUTING_ES.md) (disponible en múltiples idiomas).
+* Damos la bienvenida a las presentaciones de PR o informes de problemas en todos los proyectos de FAIR DAO, consulte las [Directrices de Contribución](https://github.com/fair-dao/.github/blob/main/CONTRIBUTING_ES.md), [Código de Conducta del Acuerdo de Colaboradores](https://github.com/fair-dao/.github/blob/main/CODE_OF_CONDUCT.md).
 * **Al contribuir, puede dejar su dirección de billetera TRON (al menos una vez), y evaluaremos su nivel de contribución cada trimestre y distribuiremos tokens Fair como recompensa a los participantes activos.**
 
 ## Licencia

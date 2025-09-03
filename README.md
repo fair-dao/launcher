@@ -7,7 +7,7 @@ Create smart contracts on the TRON network using CREATE2 opcode for deterministi
 
 ## Contribution
 
-* We welcome PR submissions or issue reports, please refer to the [Contribution Guidelines](CONTRIBUTING.md) (available in multiple languages).
+* We welcome PR submissions or issue reports in every FAIR DAO project, please refer to the [Contribution Guidelines](https://github.com/fair-dao/.github/blob/main/CONTRIBUTING.md), [Code of Conduct](https://github.com/fair-dao/.github/blob/main/CODE_OF_CONDUCT.md).
 * **When contributing, you can leave your TRON wallet address (at least once), and we will evaluate your contribution level every quarter and distribute Fair tokens as rewards to active participants.**
 
 ## License

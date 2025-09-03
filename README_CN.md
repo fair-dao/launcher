@@ -7,8 +7,7 @@
 
 ## 贡献
 
-* 我们欢迎提交PR投稿或报告问题，请参考[贡献指南](CONTRIBUTING_CN.md)（提供多语言版本）。
-* **在贡献的同时，可留下您的波场钱包地址（至少一次），我们会在每个季度评估您的贡献程度，针对积极参与者发放Fair代币作为奖励。**
+* 我们欢迎在FAIR DAO的每一个项目里提交PR投稿或报告问题，规则请参考 [贡献指南](https://github.com/fair-dao/.github/blob/main/CONTRIBUTING_CN.md)、[贡献者契约行为准则](https://github.com/fair-dao/.github/blob/main/CODE_OF_CONDUCT.md)
 
 ## 授权
 
